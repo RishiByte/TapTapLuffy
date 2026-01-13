@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+.keys{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.bongo{
+    display: inline-block;
+    padding: 20px;
+
+
+}
+
+.cymbal{
+    padding: 20px;
+
+}
+#Cymbal{
+    text-align: center;
+}
+
+.cowbell{
+    padding: 20px;
+    text-align: center;
+
+}
+
+.tambourine{
+    padding: 20px;
+    text-align: center;
+
+}
+
+.piano{
+    display: inline-block;
+    padding: 20px;
+
+}
+#Piano h1{
+    text-align: center;
+}
+
+.marimba{
+    display: inline-block;
+    padding: 20px;
+
+}
+#Marimba h1{
+    text-align: center;
+}
+
+
+
+#luffy{
+    height: 30em;
+    width: 30em;
+    margin-left: 35em;
+    margin-top: 2rem;
+    rotate: 10deg;
+
+
+}
+
+#line{
+    z-index: -1;
+    display: inline;
+    
+}
