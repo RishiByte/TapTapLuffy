@@ -419,12 +419,6 @@ document.addEventListener("keyup",(e)=>{
         luffyleftimg.style.display = "none";
         luffyrightimg.style.display = "none";
         luffydown.style.display = "none";
-        // bongoimg.style.display = "none"
-        // cymbalimg.style.display = "none"
-        // marimbaimg.style.display = "none";
-        // keyboardimg.style.display = "none";
-        // tambourineimg.style.display = "none";
-        // cowbellimg.style.display = "none";
     }
 })
 a
