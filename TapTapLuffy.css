@@ -1,5 +1,5 @@
 html, body {
-  margin: 0
+  margin: 0;
 }
 
 body {
@@ -33,7 +33,20 @@ header a{
   display: block;
   margin: 0 4px 8px
 }
+#display{
+  padding: 0;
+  margin: 0;
+  position: relative;
 
+}
+#display img{
+  position: absolute;
+  scale: 0.4;
+  margin: 0;
+  border:1px solid #f5f5f5;
+  top: 0;
+
+}
 
 
 .key {
