@@ -33,8 +33,113 @@ header a{
   display: block;
   margin: 0 4px 8px
 }
-img{
+
+#luffy{
+  display: none;
   scale: 0.6;
+  position: absolute;
+  top: -4.8em;
+  left: 20em;
+  z-index: -1;
+  rotate: 1.5deg;
+}
+
+#luffyleft{
+  display: none;
+  scale: 0.6;
+  position: absolute;
+  top: -8em;
+  left: 20em;
+  z-index: 1;
+
+  
+
+}
+#luffyright{
+  display: none;
+  scale: 0.6;
+  position: absolute;
+  top: 1.5em;
+  left: 20em;
+  z-index: 1;
+  rotate: 1.5deg;
+  
+}
+
+#luffyboth{
+  display: none;
+  scale: 0.6;
+  position: absolute;
+  top: 0em;
+  left: 20em;
+  z-index: 1;
+  rotate: 1.5deg;
+
+}
+
+
+
+
+
+
+/* Instruments */
+#bongo{
+  display: none;
+  scale: 0.4;
+  position: absolute;
+  top: 4em;
+  left: -2em;
+  rotate: 4deg;
+  
+}
+#cymbal{
+  display: none;
+  scale: 0.35;
+  position: absolute;
+  top: 5em;
+  left: 5em;
+  rotate: 4deg;
+
+  
+}
+#tambourine{
+  display: none;
+  scale: 0.35;
+  position: absolute;
+  top: 6em;
+  left: 4em;
+  rotate: 4deg;
+
+  
+}
+#keyboard{
+  display: none;
+  scale: 0.5;
+  position: absolute;
+  top: 4em;
+  left: -4em;
+  rotate: 1deg;
+
+  
+}
+#marimba{
+  display: none;
+  scale: 0.7;
+  position: absolute;
+  top: 4.5em;
+  left: -5em;
+  rotate: 2deg;
+
+}
+#cowbell{
+  display: none;
+  scale: 0.4;
+  position: absolute;
+  top: 6em;
+  left: 6em;
+  rotate: 4deg;
+
+  
 }
 
 
