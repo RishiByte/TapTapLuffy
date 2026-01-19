@@ -421,4 +421,3 @@ document.addEventListener("keyup",(e)=>{
         luffydown.style.display = "none";
     }
 })
-a
