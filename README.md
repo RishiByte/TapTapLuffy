@@ -1,4 +1,4 @@
-<h1>This Project is created by Rishi Bhardwaj And Pranav Thawait ,<br style="text-aligh:centre;"> Just for fun and learning<h1>
+<h1>This Project is created by Rishi Bhardwaj And Pranav Thawait , Just for fun and learning<h1>
 
 # TapTapLuffy 🏴‍☠️🎵
 
